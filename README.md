@@ -4,11 +4,11 @@ This project demonstrates a complete data analytics workflow using 20,000+ recor
 🔹 Technologies Used
 SQL for Data Extraction & Preparation: Query large datasets, clean & structure data, and solve real-life data challenges.
 Excel for Data Analysis: Perform sorting, pivot tables, advanced formulas, and data summarization for deeper insights.
-Power BI for Dashboard Creation: Develop interactive dashboards to visualize and communicate key findings effectively.
+Power BI for Dashboard Creation: Develop interactive dashboards to visualize and communicate key findings effectively.<br>
 📌 Project Overview
 Extract & Prepare Data: Utilize SQL to fetch, clean, and structure large datasets.
 Analyze Data: Use Excel for in-depth data manipulation and interpretation.
 Visualize Insights: Transform data into compelling dashboards using Power BI.
 By the end of this project, you'll gain hands-on experience in handling end-to-end data analytics processes, from raw data to meaningful visual stories. 🚀
-
-(https://github.com/user-attachments/assets/f4abb304-78a5-4949-bb30-0f391dc62e8f)
+ 
+ [![Image](https://github.com/user-attachments/assets/f4abb304-78a5-4949-bb30-0f391dc62e8f)](url)
