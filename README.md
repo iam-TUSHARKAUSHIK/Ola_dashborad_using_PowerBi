@@ -11,4 +11,4 @@ Analyze Data: Use Excel for in-depth data manipulation and interpretation.
 Visualize Insights: Transform data into compelling dashboards using Power BI.
 By the end of this project, you'll gain hands-on experience in handling end-to-end data analytics processes, from raw data to meaningful visual stories. 🚀
 
-
+(https://github.com/user-attachments/assets/f4abb304-78a5-4949-bb30-0f391dc62e8f)
